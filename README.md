@@ -10,7 +10,7 @@ Features of Story Builder API-
 - Count how many times a word appears in a story (case-insensitive)
 - Upload image for a specific story and store its metadata
 
-Tech Stack-
+Technologies-
  Technology        | Purpose                              |
 |--------------------|---------------------------------------|
 | .NET Core 7 / 8     | Web API framework                     |
